@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WeFake</string>
+    <string name="home">概览</string>
+    <string name="active">已激活</string>
+    <string name="inactive">未激活</string>
+    <string name="settings">设置</string>
+    <string name="obtain">获取</string>
+    <string name="save">保存</string>
+    <string name="SSID">名称</string>
+    <string name="BSSID">地址</string>
+    <string name="IP">IP地址</string>
+    <string name="gateway">网关</string>
+    <string name="netmask">掩码</string>
+    <string name="saved">已保存</string>
+</resources>

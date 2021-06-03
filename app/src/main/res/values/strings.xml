@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WeFake</string>
+    <string name="home">Home</string>
+    <string name="active">Active</string>
+    <string name="inactive">Inactive</string>
+    <string name="settings">Settings</string>
+    <string name="obtain">Obtain</string>
+    <string name="save">Save</string>
+    <string name="SSID">SSID</string>
+    <string name="BSSID">BSSID</string>
+    <string name="IP">IP</string>
+    <string name="gateway">Gateway</string>
+    <string name="netmask">Netmask</string>
+    <string name="saved">Saved</string>
+</resources>
